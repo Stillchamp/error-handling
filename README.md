@@ -1,1 +1,2 @@
-# error-handling
+# error-handling in shell scripting 
+I learnt about the concept of error handling in shell scripting on how it is important to catch error early during development stage and i learnt the use of conditional statement to cache and check this errors if they occurs and u should always anticipate for errors so u think of the most kinds of errors in your development and when it occurs there should be a display message of the type of errors that occured during developmet. 
